@@ -1,4 +1,4 @@
-## Hello there , I'm Jaskaran Singh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" style=" width:60px ; height:60px "  >
+## Hello there , I'm Jaskaran Singh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" style=" width:35px ; height:35px "  >
 
 
 # I'm a Student and Developer!
