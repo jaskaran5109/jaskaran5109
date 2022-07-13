@@ -1,7 +1,7 @@
 ## Hello there , I'm Jaskaran Singh <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" style=" width:35px ; height:35px "  >
 
 
-# I'm a Student and Developer!
+###### I'm a Student and Developer!
 
 ![](https://github.com/jaskaran5109/jaskaran5109/blob/main/hello.gif)
 
@@ -15,3 +15,6 @@
 - 💬 Ask me about anything and everything!
 - 🎨 Fun Fact: Being hydrated increases my productivity.
 - 👉 Important Fact: ... ✖ 👉 ✔ (working hard to achieve my goals.)
+
+## Find Me Here <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png" style=" width:35px ; height:35px ">
+<a href="[https://www.linkedin.com/in/adi-bhardwaj/](https://www.linkedin.com/in/jaskaran-singh-04a7671b5/)" rel="nofollow"><img align="left" alt="LinkedIn" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
