@@ -1,4 +1,4 @@
-## Hello there , I'm Jaskaran Singh [![github](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif)][1]
+## Hello there , I'm Jaskaran Singh ![githubX100](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif)
 
 # I'm a Student and Developer!
 
