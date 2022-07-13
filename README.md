@@ -25,5 +25,5 @@
 
 <a href="https://auth.geeksforgeeks.org/user/hs123online/"><img src="https://img.shields.io/static/v1?message=GeeksForGeeks&logo=GeeksForGeeks&labelColor=brightgreen&color=1182c3&logoColor=white&label=%20&color=Blue" data-canonical-src="https://img.shields.io/static/v1?message=GeeksForGeeks&logo=GeeksForGeeks&labelColor=brightgreen&color=1182c3&logoColor=white&label=%20&color=Blue" style="max-width: 100%;height:25px"></a>
 
-<a href="https://auth.geeksforgeeks.org/user/hs123online/"><img src="https://img.shields.io/static/v1?message=GeeksForGeeks&logo=GeeksForGeeks&labelColor=brightgreen&color=1182c3&logoColor=white&label=%20&color=Blue" data-canonical-src="https://img.shields.io/static/v1?message=Hackerrank&logo=hackerrank&labelColor=blue&color=1182c3&logoColor=white&label=%20&color=Blue" style="max-width: 100%;height:25px"></a>
+<a href="https://www.hackerrank.com/hs123online"><img src="https://img.shields.io/static/v1?message=Hackerrank&logo=hackerrank&labelColor=blue&color=blue&logoColor=white&label=%20" data-canonical-src="https://img.shields.io/static/v1?message=Hackerrank&logo=hackerrank&labelColor=blue&color=blue&logoColor=white&label=%20" style="max-width: 100%;height:25px"></a>
 
