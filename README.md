@@ -34,7 +34,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://i.redd.it/uqvvlattlz9a1.png" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jaskaran5109&icon=4&color=5)](https://visitcount.itsvg.in)
