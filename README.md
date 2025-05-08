@@ -10,13 +10,15 @@
 
 ![](https://github.com/jaskaran5109/jaskaran5109/blob/main/hello.gif)
 
-* 🏄‍ Passionate Web Developer building high-performance web applications.
-* ⚙️ Skilled at transforming ideas into scalable digital products.
-* 🌱 Avid learner & team player, enthusiastic about solving real-world problems.
-* 💡 Adheres to clean code principles, performance, and accessibility.
-* 📬 Reach me anytime via email.
-* 🧙‍♂️ Improving MERN stack applications and DSA skills.
-* 🎧 Music & tech enthusiast, always exploring!
+### 👨‍💻 About Me
+* 🧑‍💻 Front-End Developer with 2+ years of experience in React, TypeScript, and Tailwind CSS.
+* 🏗️ Specialized in Micro Frontend Architecture (MFE) and scalable UI design.
+* ⚙️ Skilled in state management (Redux, MobX) and RESTful API integration.
+* 🌍 Passionate about building accessible, responsive, and high-performance web apps.
+* 🔄 Agile team player with strong Git practices, CI/CD workflows, and clean code standards.
+* 🧠 Always learning—focused on MERN stack, system design, and problem solving (DSA).
+* 🎧 Music-driven coder & tech enthusiast, driven by curiosity and impact.
+* 📬 Reach out at singhjaskaran2810@gmail.com – happy to connect!
 
 ---
 
