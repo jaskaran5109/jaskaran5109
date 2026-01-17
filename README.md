@@ -2,7 +2,7 @@
 
 ### 💼 Front-End Developer | React | TypeScript | Tailwind CSS | MFE
 
-📍 Remote-Ready | 🌐 Global Opportunities | 🧠 2+ Years Experience <br/>
+📍 Remote-Ready | 🌐 Global Opportunities | 🧠 3 Years Experience <br/>
 📞 +91 7500224998 | 📧 [singhjaskaran2810@gmail.com](mailto:singhjaskaran2810@gmail.com) <br/>
 🔗 [LinkedIn](https://linkedin.com/in/jaskaran-singh-04a7671b5) | [Portfolio](https://my-portfolio-eta-gules-23.vercel.app/)
 
@@ -11,7 +11,7 @@
 ![](https://github.com/jaskaran5109/jaskaran5109/blob/main/hello.gif)
 
 ### 👨‍💻 About Me
-* 🧑‍💻 Front-End Developer with 2+ years of experience in React, TypeScript, and Tailwind CSS.
+* 🧑‍💻 Front-End Developer with 3 years of experience in React, TypeScript, and Tailwind CSS.
 * 🏗️ Specialized in Micro Frontend Architecture (MFE) and scalable UI design.
 * ⚙️ Skilled in state management (Redux, MobX) and RESTful API integration.
 * 🌍 Passionate about building accessible, responsive, and high-performance web apps.
